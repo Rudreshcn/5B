@@ -1,2 +1,2 @@
 print("vvce")
-print("navaz")
+print("Mysore")
